@@ -1,0 +1,14 @@
+{
+	"Insert ruby": {
+		"scope": "markdown,html",
+		"prefix": "ruby",
+		"body": "<ruby>${1:${TM_SELECTED_TEXT}}<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>",
+		"description": "插入 Ruby 标注"
+	},
+	"Insert ruby rt": {
+		"scope": "markdown,html",
+		"prefix": "rt",
+		"body": "${1:${TM_SELECTED_TEXT}}<rp>(</rp><rt>$2</rt><rp>)</rp>",
+		"description": "插入 Ruby 标注的注释"
+	}
+}
