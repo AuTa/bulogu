@@ -2,7 +2,7 @@
 title: "最初のブログ"
 date: 2020-03-10T13:30:00+08:00
 draft: false
-description: 今日は火曜日かようびで、曇くもりです。
+description: 今日は火曜日で、曇りです。
 ---
 
 今日は<ruby>火曜日<rp>(</rp><rt>かようび</rt><rp>)</rp></ruby>で、<ruby>曇<rp>(</rp><rt>くも</rt><rp>)</rp></ruby>り[^1]です。
