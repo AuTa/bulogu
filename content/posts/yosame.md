@@ -1,5 +1,5 @@
 ---
-title: "よさめ夜雨"
+title: "よさめ（夜雨）"
 date: 2020-03-12T22:17:15+08:00
 draft: false
 description: 今夜は雨が降っています。
