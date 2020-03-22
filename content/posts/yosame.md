@@ -2,7 +2,6 @@
 title: "よさめ（夜雨）"
 date: 2020-03-12T22:17:15+08:00
 draft: false
-description: 今夜は雨が降っています。
 ---
 
 <ruby>木曜日<rp>(</rp><rt>もくようび</rt><rp>)</rp></ruby>。<ruby>今夜<rp>(</rp><rt>こんや</rt><rp>)</rp></ruby>は雨が<ruby>降<rp>(</rp><rt>ふ</rt><rp>)</rp></ruby>っています。

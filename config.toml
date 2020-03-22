@@ -19,7 +19,9 @@ googleAnalytics = "UA-56510552-2"
 paginate = 10
 
 # Number of characters to show in summary.
-summaryLength = 10
+summaryLength = 20
+
+hasCJKLanguage = true
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
