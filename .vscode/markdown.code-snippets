@@ -5,6 +5,12 @@
 		"body": "<ruby>${1:${TM_SELECTED_TEXT}}<rp>(</rp><rt>$2</rt><rp>)</rp></ruby>",
 		"description": "插入 Ruby 标注"
 	},
+	"Insert ruby shortcodes": {
+		"scope": "markdown,html",
+		"prefix": "ruby",
+		"body": "{{% ruby $2 %}}${1:${TM_SELECTED_TEXT}}{{% /ruby %}}",
+		"description": "插入 Ruby Hugo Shortcode "
+	},
 	"Insert ruby rt": {
 		"scope": "markdown,html",
 		"prefix": "rt",
