@@ -67,6 +67,11 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
+name = "ノート"
+url = "/notes"
+weight = 2
+
+[[menu.main]]
 # name = "About"
 # url = "/about"
 # weight = 3
