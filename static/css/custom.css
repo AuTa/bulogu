@@ -1,12 +1,18 @@
 body {
-    font-family: ten-mincho,serif;
+    font-family: ten-mincho, serif;
     font-style: normal;
 }
 
 blockquote {
-    font-family: ten-mincho,Georgia,bitstream charter,serif;
+    font-family: ten-mincho, Georgia, bitstream charter, serif;
+    font-size: 1em;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    font-family: ten-mincho,raleway,sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: ten-mincho, raleway, sans-serif;
 }
