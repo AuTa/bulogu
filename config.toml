@@ -1,9 +1,12 @@
 baseURL = "https://burogu.autarch.me/"
 languageCode = "ja"
 title = "ブログ"
-theme = "ezhil"
+theme = "fuji"
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
 
-copyright = "© 2020 AuTa"
+copyright = "©{year} AuTa"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -19,9 +22,15 @@ googleAnalytics = "UA-56510552-2"
 paginate = 10
 
 # Number of characters to show in summary.
-summaryLength = 20
+summaryLength = 50
 
-hasCJKLanguage = true
+# Comments
+# utterances, see: https://utteranc.es/
+utterancesRepo = "AuTa/burogu"
+utterancesIssueTerm = "title"
+utterancesTheme = "github-light"
+utterancesCrossorigin = "anonymous"
+
 
 [params]
 # Blog subtitle which appears below blog title. Supports markdown.
